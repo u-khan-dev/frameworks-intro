@@ -1,0 +1,36 @@
+#container {
+    padding: 20px;
+}
+
+.main-header {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 20px;
+}
+
+#first-paragraph {
+    font-style: italic;
+}
+
+.header {
+    height: 50px;
+    width: 100%;
+    background-color: bisque;
+    display: flex;
+    align-items: center;
+    padding: 0 20px;
+}
+
+.nav {
+    list-style-type: none;
+}
+
+.nav li {
+    display: inline;
+    margin-right: 20px;
+    font-size: 14pt;
+}
+
+.nav a {
+    text-decoration: none;
+    color: blue;
+}
